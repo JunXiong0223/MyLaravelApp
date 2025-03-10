@@ -1,5 +1,5 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/purchasi/public_html/laravelapp
+        - export DEPLOYPATH=/home/purchasi/public_html/laravelapp1
         - /bin/cp -r * $DEPLOYPATH 
